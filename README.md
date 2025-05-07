@@ -18,3 +18,4 @@ The script will automatically:
 Check for updates to all apps installed via Winget (including apps with unknown versions).  
 Open the Microsoft Store updates page so you can easily update Store apps.  
 Log all the actions and results to a file (update_log.txt).
+## Prerequisites
