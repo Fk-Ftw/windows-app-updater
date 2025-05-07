@@ -11,11 +11,9 @@ Windows 10 or 11: This script requires Winget to be installed (available by defa
 PowerShell: PowerShell is used to open the Microsoft Store update page.  
 
 How to Use  
-1-Download the Script  
-Download the update_all_apps.bat file from this repository.  
+1-Download the update_all_apps.bat file from this repository.  
 
-2-Run the Script  
-Right-click on the update_all_apps.bat file and select Run as Administrator.  
+2-Right-click on the update_all_apps.bat file and select Run as Administrator.  
 The script will automatically:  
 Check for updates to all apps installed via Winget (including apps with unknown versions).  
 Open the Microsoft Store updates page so you can easily update Store apps.  
