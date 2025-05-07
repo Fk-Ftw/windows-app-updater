@@ -3,7 +3,7 @@ Purpose- Updates all apps on Windows using both Winget and Microsoft Store!
 
 💡**Features**  
 🛠️Updates Winget apps: The script updates all apps installed via winget (Windows Package Manager).  
-🚀Updates Microsoft Store apps: It checks for updates to apps from the Microsoft Store and opens the updates page.  
+🚀Updates Microsoft Store apps: Checks for updates from the Microsoft Store and opens the updates page.  
 📑Logs the process: All actions and results are logged into a file (update_log.txt) for later reference.  
 
 📋 **Requirements**  
