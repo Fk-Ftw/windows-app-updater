@@ -1,7 +1,7 @@
 # Windows-app-updater  
 Purpose- Updates all apps on Windows using both Winget and Microsoft Store!  
 
-##💡**Features**  
+##💡Features
 🛠️Updates Winget apps: The script updates all apps installed via winget (Windows Package Manager).  
 🚀Updates Microsoft Store apps: Checks for updates from the Microsoft Store and opens the updates page.  
 📑Logs the process: All actions and results are logged into a file (update_log.txt) for later reference.  
@@ -18,4 +18,4 @@ The script will automatically:
 Check for updates to all apps installed via Winget (including apps with unknown versions).  
 Open the Microsoft Store updates page so you can easily update Store apps.  
 Log all the actions and results to a file (update_log.txt).
-## Prerequisites
+
